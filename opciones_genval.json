@@ -1,0 +1,15 @@
+{
+
+    "conexion" : {
+        "user" : "dycec",
+        "pass" :  "dycec911",
+        "server" : "10.37.45.92"
+    
+    },
+    "basedir" : "C:\\Users\\T742183\\OneDrive - Telefonica\\proyectos\\CSAL-GENVAL\\csv",
+    "base"    : "csal",
+    "clase": "F",
+    "tablas" : ["genval_economico","genval_economico_simulado","genval_inventario", "genval_inventariodatos",
+                "genval_organismos","genval_penalizaciones","genval_penalizaciones_sla",
+                "genval_penalizaciones_slaobservaciones","genval_volumetria"]
+}
